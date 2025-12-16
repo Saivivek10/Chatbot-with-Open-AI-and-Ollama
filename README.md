@@ -30,8 +30,8 @@ Install the required dependencies for each chatbot by navigating to the respecti
 ```bash
 pip install -r [requirements.txt]
 
-<img width="1512" height="982" alt="Open AI" src="https://github.com/user-attachments/assets/418d897e-f578-49f1-b86a-948a0e3c6a22" />
+## Screenshots
 
-<img width="1512" height="982" alt="Ollama" src="https://github.com/user-attachments/assets/ed9a73aa-fffd-48e0-8244-4b43bff9a8f2" />
+
 
 
