@@ -23,6 +23,14 @@ The project is organized into two folders:
 - **Customizable Parameters**: Users can adjust response parameters such as temperature and max tokens.
 - **Model Selection**: OpenAI chatbot allows selecting from multiple GPT models, while Ollama chatbot uses the "mistral" model.
 
+  
+
+<img width="1512" height="982" alt="Ollama" src="https://github.com/user-attachments/assets/7515c14c-1ada-4cf8-9701-4c8a3ac1bbd9" />
+
+<img width="1512" height="982" alt="Open AI" src="https://github.com/user-attachments/assets/492defd5-d504-45c7-a770-c94443d6a496" />
+
+
+
 ## Requirements
 
 Install the required dependencies for each chatbot by navigating to the respective folder and running:
@@ -30,7 +38,6 @@ Install the required dependencies for each chatbot by navigating to the respecti
 ```bash
 pip install -r [requirements.txt]
 
-## Screenshots
 
 
 
